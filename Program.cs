@@ -9,7 +9,7 @@ namespace tovari
         static void Main(string[] args)
         {
             List<string> stuff = new List<string>() { "banan", "iphone_12", "burger", "apple", "dog", "car", "tv", "mouse", "cap", "hoodie", "iphone_13_pro" };
-            List<string> ShoppingBasket = new List<string>() { "1", "2", "3", "2", "3", "1", "2", "3" };
+            List<string> ShoppingBasket = new List<string>() { };
             bool program = true;
 
             while (program)
