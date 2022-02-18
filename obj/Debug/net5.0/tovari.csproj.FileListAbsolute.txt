@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\tovari.exe
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\tovari.deps.json
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\tovari.runtimeconfig.json
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\tovari.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\tovari.dll
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\ref\tovari.dll
+C:\Users\Admin\source\repos\tovari\tovari\bin\Debug\net5.0\tovari.pdb
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.AssemblyInfo.cs
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.dll
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\ref\tovari.dll
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.pdb
+C:\Users\Admin\source\repos\tovari\tovari\obj\Debug\net5.0\tovari.genruntimeconfig.cache
