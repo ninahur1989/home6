@@ -57,7 +57,7 @@ namespace tovari
                             }
                             break;
                         }
-
+                        //
                     case "confirm":
                         {
                             Console.Clear();
@@ -73,7 +73,7 @@ namespace tovari
 
                             ShoppingBasket.Clear();
 
-                            File.AppendAllText(@"C:\Users\Admin\source\repos\tovar\tovar\ds.txt", " " + "num od your order is: " + NumofOrder + " \n" + msg);
+                            File.AppendAllText(@"C:\Users\Admin\source\repos\tovari\tovari\tovari.result.txt", " " + "num od your order is: " + NumofOrder + " \n" + msg);
                             NumofOrder++;
                             Console.WriteLine("Press any button if you want to continue");
                             Console.ReadKey();
